@@ -1,5 +1,5 @@
 # Git-Github
-## Git and Github notes and cheatsheets
+## Git and Github notes and cheatsheets :
 ![logo](https://github.com/abhigyan31/Git-Github/blob/main/1.git%20github.jpg)
 
 ![logo](https://github.com/abhigyan31/Git-Github/blob/main/2.jpg)
